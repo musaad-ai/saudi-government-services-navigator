@@ -1,0 +1,1301 @@
+{
+  "renew_driving_license": {
+    "platform": "Absher",
+    "category": "Traffic",
+    "title_ar": "تجديد رخصة القيادة",
+    "title_en": "Renew Driving License",
+    "description_ar": "خدمة تتيح للمستفيد تجديد رخصة القيادة الخاصة عبر منصة أبشر أفراد.",
+    "description_en": "Service that allows the beneficiary to renew a private driving license via Absher Individuals.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) من القائمة الرئيسية.",
+      "اختيار (المرور) من قائمة الخدمات.",
+      "اختيار (تجديد رخصة القيادة).",
+      "تحديد نوع ومدة الرخصة والتأكيد.",
+      "سداد الرسوم إن وجدت، واختيار طريقة استلام الوثيقة أو توصيلها."
+    ],
+    "steps_en": [
+      "Log in to the Absher Individuals platform.",
+      "From the main menu, choose 'My Services'.",
+      "Select 'Traffic' from the services list.",
+      "Select the 'Renew Driving License' service.",
+      "Choose the license type and renewal period and confirm.",
+      "Pay the required fee if any and select document pickup or delivery."
+    ],
+    "requirements": {
+      "ar": [
+        "سريان الهوية الوطنية أو الإقامة.",
+        "سداد المخالفات المرورية المسجلة، إن وجدت.",
+        "إجراء الفحص الطبي في مركز معتمد ومحدَّث في النظام.",
+        "وجود بصمة وصورة في النظام."
+      ],
+      "en": [
+        "Valid national ID or residency (Iqama).",
+        "Traffic fines, if any, must be paid.",
+        "Medical examination completed at an approved medical center and updated in the system.",
+        "Biometrics and photo already registered in the system."
+      ]
+    },
+    "official_link": "https://absher.sa/"
+  },
+
+  "issue_driving_license": {
+    "platform": "Absher",
+    "category": "Traffic",
+    "title_ar": "إصدار رخصة قيادة",
+    "title_en": "Issue Driving License",
+    "description_ar": "خدمة تتيح إصدار رخصة قيادة جديدة بعد استكمال متطلبات التدريب والاختبار.",
+    "description_en": "Service that allows issuing a new driving license after completing training and tests.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر.",
+      "اختيار (خدماتي) من القائمة الرئيسية.",
+      "اختيار (المرور) من قائمة الخدمات.",
+      "اختيار خدمة (إصدار رخصة قيادة).",
+      "تعبئة البيانات المطلوبة والتأكد منها.",
+      "تأكيد الطلب، وسداد الرسوم ثم استلام الرخصة أو طلب توصيلها."
+    ],
+    "steps_en": [
+      "Log in to Absher platform.",
+      "From the main menu choose 'My Services'.",
+      "Select 'Traffic' from the services list.",
+      "Select the 'Issue Driving License' service.",
+      "Fill in the required information and verify it.",
+      "Confirm the request, pay the fee, then receive or request delivery of the license."
+    ],
+    "requirements": {
+      "ar": [
+        "استكمال ساعات التدريب النظري والعملي حسب اللوائح.",
+        "اجتياز اختبار القيادة النظري والعملي.",
+        "سريان الهوية الوطنية أو الإقامة.",
+        "سداد الرسوم المقررة.",
+        "الفحص الطبي المعتمد."
+      ],
+      "en": [
+        "Completion of required theoretical and practical driving training.",
+        "Passing both theoretical and practical driving tests.",
+        "Valid national ID or residency.",
+        "Payment of applicable fees.",
+        "Approved medical examination."
+      ]
+    },
+    "official_link": "https://absher.sa/"
+  },
+
+  "view_digital_driving_license": {
+    "platform": "Absher",
+    "category": "Traffic",
+    "title_ar": "عرض رخصة القيادة الرقمية",
+    "title_en": "View Digital Driving License",
+    "description_ar": "خدمة تتيح للمستفيد عرض بيانات رخصة القيادة الرقمية إلكترونيًا.",
+    "description_en": "Service that allows the beneficiary to view their digital driving license details electronically.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد أو تطبيق أبشر.",
+      "الانتقال إلى قسم (خدماتي).",
+      "اختيار (المرور) أو (المحفظة الرقمية) حسب الواجهة الحالية.",
+      "عرض رخصة القيادة الرقمية وبياناتها."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals or the Absher mobile app.",
+      "Open 'My Services'.",
+      "Choose 'Traffic' or 'Digital Wallet' depending on the interface.",
+      "View the digital driving license and its details."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في منصة أبشر.",
+        "وجود رخصة قيادة سارية مرتبطة بالحساب."
+      ],
+      "en": [
+        "Active Absher account.",
+        "A valid driving license linked to the account."
+      ]
+    },
+    "official_link": "https://absher.sa/"
+  },
+
+  "issue_commercial_registration": {
+    "platform": "Saudi Business Center",
+    "category": "Business",
+    "title_ar": "تسجيل السجل التجاري للمؤسسات الفردية",
+    "title_en": "Recording Commercial Registration for Sole Proprietorship",
+    "description_ar": "خدمة عبر مركز الأعمال السعودي لتسجيل أو إصدار سجل تجاري لمؤسسة فردية.",
+    "description_en": "Service via the Saudi Business Center to record or issue a commercial registration for a sole proprietorship.",
+    "steps_ar": [
+      "الدخول إلى منصة مركز الأعمال السعودي.",
+      "تسجيل الدخول عبر النفاذ الوطني الموحد.",
+      "اختيار خدمات السجل التجاري للمؤسسات الفردية.",
+      "تعبئة بيانات المنشأة (الاسم، النشاط، العنوان، إلخ).",
+      "مراجعة البيانات وتأكيد الطلب.",
+      "سداد الرسوم وطباعة أو حفظ مستند السجل التجاري."
+    ],
+    "steps_en": [
+      "Access the Saudi Business Center platform.",
+      "Log in using the National Single Sign-On (Nafath).",
+      "Select commercial registration services for sole proprietorships.",
+      "Fill in establishment details (name, activity, address, etc.).",
+      "Review the data and confirm the request.",
+      "Pay the fees and print or save the commercial registration document."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في النفاذ الوطني.",
+        "استيفاء شروط الاسم التجاري المعتمدة.",
+        "تحديد النشاط التجاري من التصنيفات المعتمدة.",
+        "سداد الرسوم النظامية."
+      ],
+      "en": [
+        "Active account via the National Single Sign-On (Nafath).",
+        "Trade name that meets Saudi naming regulations.",
+        "Business activity selected from approved classifications.",
+        "Payment of applicable government fees."
+      ]
+    },
+    "official_link": "https://business.sa/ar/eservices/details/ee829025-1253-41d3-f9fc-08dd6ab9228a#ee829025-1253-41d3-f9fc-08dd6ab9228a"
+  },
+
+  "annual_cr_confirmation": {
+    "platform": "Saudi Business Center",
+    "category": "Business",
+    "title_ar": "تجديد / التأكيد السنوي للسجل التجاري",
+    "title_en": "Renew / Annual Confirmation of Commercial Registration",
+    "description_ar": "خدمة تتيح تجديد وتأكيد وتحديث بيانات السجل التجاري الرئيسي بشكل سنوي.",
+    "description_en": "Service that enables annual confirmation and update of main commercial registration data.",
+    "steps_ar": [
+      "الدخول إلى منصة مركز الأعمال السعودي.",
+      "تسجيل الدخول عبر النفاذ الوطني.",
+      "اختيار خدمة (التأكيد السنوي للسجل التجاري الرئيسي).",
+      "مراجعة بيانات السجل التجاري وتحديثها عند الحاجة.",
+      "تأكيد الإقرار وسداد الرسوم المقررة إن وجدت."
+    ],
+    "steps_en": [
+      "Access the Saudi Business Center platform.",
+      "Log in via the unified national access.",
+      "Select the 'Annual Confirmation of Main Commercial Registration' service.",
+      "Review CR data and update if necessary.",
+      "Confirm declaration and pay required fees if applicable."
+    ],
+    "requirements": {
+      "ar": [
+        "سجل تجاري رئيسي ساري المفعول.",
+        "حساب منشأة مفعل في المنصة.",
+        "تحديث البيانات في حال حدوث تغييرات جوهرية.",
+        "سداد الرسوم حسب نوع الكيان القانوني."
+      ],
+      "en": [
+        "An active main commercial registration.",
+        "Active establishment account on the platform.",
+        "Updated data in case of material changes.",
+        "Payment of fees based on legal entity type."
+      ]
+    },
+    "official_link": "https://business.sa/ar/eservices/details/7412628c-0a34-4943-1055-08dd6aa798b2#7412628c-0a34-4943-1055-08dd6aa798b2"
+  },
+
+  "trade_name_reservation": {
+    "platform": "Saudi Business Center",
+    "category": "Business",
+    "title_ar": "حجز اسم تجاري",
+    "title_en": "Trade Name Reservation",
+    "description_ar": "خدمة إلكترونية تتيح حجز اسم تجاري لمدة محددة تمهيدًا لإصدار السجل التجاري.",
+    "description_en": "E-service that allows reserving a trade name for a limited period in preparation for issuing a commercial registration.",
+    "steps_ar": [
+      "الدخول إلى منصة مركز الأعمال السعودي أو وزارة التجارة.",
+      "تسجيل الدخول عبر النفاذ الوطني.",
+      "اختيار خدمة (حجز اسم تجاري).",
+      "إدخال الاسم المطلوب والتحقق من توفره.",
+      "اختيار نوع الكيان والنشاط المرتبط بالاسم.",
+      "تأكيد الطلب وسداد الرسوم، ثم حفظ إشعار حجز الاسم."
+    ],
+    "steps_en": [
+      "Access the Saudi Business Center or Ministry of Commerce e-services.",
+      "Log in using National Single Sign-On.",
+      "Select the 'Trade Name Reservation' service.",
+      "Enter the desired trade name and check availability.",
+      "Choose the entity type and associated activity.",
+      "Confirm the request, pay the fees, and save the name-reservation notification."
+    ],
+    "requirements": {
+      "ar": [
+        "الالتزام بضوابط ومعايير الأسماء التجارية في المملكة.",
+        "عدم تكرار الاسم مع سجل تجاري قائم.",
+        "سداد رسوم حجز الاسم خلال الفترة المحددة."
+      ],
+      "en": [
+        "Compliance with Saudi trade name regulations.",
+        "The name must not duplicate an existing registered commercial name.",
+        "Payment of the reservation fee within the allowed period."
+      ]
+    },
+    "official_link": "https://business.sa/ar/eservices/details/e2162d09-08ef-4011-1064-08dd6aa798b2#e2162d09-08ef-4011-1064-08dd6aa798b2"
+  },
+
+  "trade_name_assignment": {
+    "platform": "Saudi Business Center",
+    "category": "Business",
+    "title_ar": "تنازل عن الاسم التجاري للمنشآت",
+    "title_en": "Assignment of Trade Name for Establishments",
+    "description_ar": "خدمة تتيح نقل أو التنازل عن الاسم التجاري من منشأة إلى أخرى وفق الضوابط النظامية.",
+    "description_en": "Service that allows assigning or transferring a trade name from one establishment to another under regulatory conditions.",
+    "steps_ar": [
+      "الدخول إلى منصة مركز الأعمال السعودي.",
+      "تسجيل الدخول بحساب مالك الاسم التجاري.",
+      "اختيار خدمة (التنازل عن الاسم التجاري للمنشآت).",
+      "تحديد الاسم التجاري والمنشأة المستفيدة.",
+      "مراجعة الشروط وتأكيد الموافقة.",
+      "إرسال الطلب واستكمال أي متطلبات إضافية أو رسوم."
+    ],
+    "steps_en": [
+      "Access the Saudi Business Center platform.",
+      "Log in using the trade name owner's account.",
+      "Select the 'Assignment of Trade Name for Establishments' service.",
+      "Select the trade name and the benefiting establishment.",
+      "Review conditions and confirm acceptance.",
+      "Submit the request and complete any additional requirements or fees."
+    ],
+    "requirements": {
+      "ar": [
+        "اسم تجاري قائم ومسجل.",
+        "موافقة جميع الأطراف ذات العلاقة حسب نوع الكيان.",
+        "استيفاء الشروط النظامية للتنازل.",
+        "سداد الرسوم إن وجدت."
+      ],
+      "en": [
+        "An active, registered trade name.",
+        "Consent from all relevant parties depending on entity type.",
+        "Fulfillment of legal conditions for assignment.",
+        "Payment of any applicable fees."
+      ]
+    },
+    "official_link": "https://business.sa/ar/eservices/details/2fa66cff-dd7f-440b-1051-08dd6aa798b2#2fa66cff-dd7f-440b-1051-08dd6aa798b2"
+  },
+
+  "qiyas_paper_test_registration": {
+    "platform": "Qiyas",
+    "category": "Education",
+    "title_ar": "التسجيل في الاختبارات الورقية",
+    "title_en": "Paper-Based Test Registration",
+    "description_ar": "خدمة رقمية تتيح للمستفيد التسجيل في الاختبارات الورقية عبر حسابه في المركز الوطني للقياس.",
+    "description_en": "Digital service that enables beneficiaries to register for paper-based tests through their Qiyas account.",
+    "steps_ar": [
+      "تسجيل الدخول إلى حسابك في موقع قياس.",
+      "الدخول إلى قائمة (الاختبارات المتاحة للتسجيل).",
+      "اختيار نوع الاختبار الورقي المطلوب (مثل القدرات أو التحصيلي).",
+      "تحديد المدينة ومقر الاختبار والتاريخ المناسب.",
+      "تأكيد البيانات وسداد رسوم الاختبار لإتمام التسجيل."
+    ],
+    "steps_en": [
+      "Log in to your Qiyas account on the official portal.",
+      "Go to the list of 'Available Tests for Registration'.",
+      "Select the desired paper-based test type (e.g., aptitude or achievement).",
+      "Choose city, test center, and preferred date.",
+      "Confirm your data and pay the test fee to complete registration."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في موقع قياس.",
+        "بيانات شخصية صحيحة ومحدّثة.",
+        "توفّر مقاعد في المقر والتاريخ المطلوب.",
+        "سداد رسوم الاختبار."
+      ],
+      "en": [
+        "Active account on the Qiyas portal.",
+        "Accurate and updated personal details.",
+        "Availability of seats at the chosen center and date.",
+        "Payment of the test fee."
+      ]
+    },
+    "official_link": "https://etec.gov.sa/ar/centers/qiyas/p/s-96826f99-17ae-4280-9f6a-891295862f62"
+  },
+
+  "qiyas_test_reschedule": {
+    "platform": "Qiyas",
+    "category": "Education",
+    "title_ar": "إعادة جدولة موعد اختبار قياس",
+    "title_en": "Digital Test Rescheduling",
+    "description_ar": "خدمة تتيح للمستفيد تعديل موعد اختبار قياس الرقمي أو الورقي وفق الضوابط الزمنية.",
+    "description_en": "Service that allows beneficiaries to change or reschedule the date of a Qiyas test within allowed time limits.",
+    "steps_ar": [
+      "تسجيل الدخول إلى حسابك في موقع قياس.",
+      "الذهاب إلى صفحة (اختباراتي) أو (الاختبارات المسجلة).",
+      "اختيار الاختبار المراد تعديل موعده.",
+      "الضغط على خيار (تعديل) أو (إعادة الجدولة) إن كان متاحًا.",
+      "اختيار مقر وموعد جديدين، ثم تأكيد التعديل."
+    ],
+    "steps_en": [
+      "Log in to your Qiyas account.",
+      "Open the 'My Tests' or registered tests page.",
+      "Select the test you want to reschedule.",
+      "Click 'Modify' or 'Reschedule' if available.",
+      "Choose a new test center, date and time, then confirm."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في قياس.",
+        "إجراء التعديل قبل الموعد النهائي المسموح به (مثل 48 ساعة قبل الاختبار).",
+        "توفّر مقاعد في الموعد الجديد المطلوب."
+      ],
+      "en": [
+        "Active Qiyas account.",
+        "Rescheduling must be done before the allowed deadline (e.g., 48 hours before the test).",
+        "Seat availability for the new requested date and center."
+      ]
+    },
+    "official_link": "https://etec.gov.sa/ar/centers/qiyas/p/s-e8309722-a9fd-4890-8076-64df54375b14"
+  },
+
+  "qiyas_view_results": {
+    "platform": "Qiyas",
+    "category": "Education",
+    "title_ar": "عرض نتائج اختبارات قياس",
+    "title_en": "View Qiyas Test Results",
+    "description_ar": "خدمة تتيح للمستفيد الاطلاع على نتائج اختبارات قياس المسجلة في حسابه.",
+    "description_en": "Service that allows beneficiaries to view the results of Qiyas tests associated with their account.",
+    "steps_ar": [
+      "الدخول إلى موقع قياس الرسمي.",
+      "تسجيل الدخول إلى حساب المستفيد.",
+      "الذهاب إلى قسم (النتائج) أو (الاختبارات السابقة).",
+      "اختيار الاختبار المطلوب عرض نتيجته.",
+      "استعراض النتيجة وتحميل التقرير إن توفر."
+    ],
+    "steps_en": [
+      "Go to the official Qiyas website.",
+      "Log in to your Qiyas account.",
+      "Navigate to the 'Results' or 'Previous Tests' section.",
+      "Select the test whose result you want to view.",
+      "Review the score and download the report if available."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في موقع قياس.",
+        "أن يكون الاختبار مصححًا وتم اعتماد نتيجته."
+      ],
+      "en": [
+        "Active account on the Qiyas website.",
+        "The test must have been corrected and its result released."
+      ]
+    },
+    "official_link": "http://www.qiyas.org"
+  },
+
+  "renew_national_id": {
+    "platform": "Absher",
+    "category": "Civil Affairs",
+    "title_ar": "تجديد الهوية الوطنية",
+    "title_en": "Renew National ID",
+    "description_ar": "خدمة تتيح للمواطن السعودي تجديد بطاقة الهوية الوطنية إلكترونيًا عبر منصة أبشر.",
+    "description_en": "Service that allows Saudi citizens to renew their National ID card electronically via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) من القائمة الرئيسية.",
+      "اختيار (الأحوال المدنية).",
+      "اختيار خدمة (تجديد الهوية الوطنية).",
+      "مراجعة البيانات والتأكد من صحتها.",
+      "اختيار طريقة استلام الهوية (توصيل أو فرع الأحوال).",
+      "تأكيد الطلب وسداد الرسوم إن وجدت."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' from the main menu.",
+      "Choose 'Civil Affairs'.",
+      "Select 'Renew National ID' service.",
+      "Review and verify your information.",
+      "Choose delivery method (home delivery or civil affairs branch).",
+      "Confirm the request and pay fees if applicable."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون المستفيد سعودي الجنسية.",
+        "أن تكون الهوية منتهية أو قاربت على الانتهاء (خلال 180 يوم).",
+        "وجود بصمة وصورة محدثة في النظام.",
+        "عدم وجود إيقاف خدمات على المستفيد."
+      ],
+      "en": [
+        "The beneficiary must be a Saudi citizen.",
+        "The ID must be expired or expiring within 180 days.",
+        "Updated fingerprint and photo in the system.",
+        "No service suspension on the beneficiary."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "register_newborn": {
+    "platform": "Absher",
+    "category": "Civil Affairs",
+    "title_ar": "تسجيل مولود جديد",
+    "title_en": "Register Newborn",
+    "description_ar": "خدمة تتيح للمواطن تسجيل مولود جديد وإضافته إلى سجل الأسرة عبر منصة أبشر.",
+    "description_en": "Service that allows citizens to register a newborn and add them to the family record via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الأحوال المدنية).",
+      "اختيار خدمة (تسجيل مولود).",
+      "إدخال بيانات المولود (الاسم، تاريخ الميلاد، مكان الولادة).",
+      "إرفاق شهادة الميلاد من المستشفى أو إشعار الولادة.",
+      "مراجعة البيانات وتأكيد الطلب.",
+      "استلام إشعار التسجيل ورقم الهوية للمولود."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Civil Affairs'.",
+      "Choose 'Register Newborn' service.",
+      "Enter newborn details (name, date of birth, place of birth).",
+      "Attach birth certificate from hospital or birth notification.",
+      "Review data and confirm the request.",
+      "Receive registration notification and newborn's ID number."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون الأب أو الأم سعودي الجنسية.",
+        "شهادة ميلاد أو إشعار ولادة من المستشفى.",
+        "التسجيل خلال المدة النظامية (15 يوم من الولادة لتجنب الغرامة).",
+        "بيانات الأم والأب صحيحة ومحدثة."
+      ],
+      "en": [
+        "Father or mother must be a Saudi citizen.",
+        "Birth certificate or birth notification from the hospital.",
+        "Registration within the legal period (15 days from birth to avoid fines).",
+        "Accurate and updated parent information."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "issue_birth_certificate": {
+    "platform": "Absher",
+    "category": "Civil Affairs",
+    "title_ar": "إصدار شهادة ميلاد",
+    "title_en": "Issue Birth Certificate",
+    "description_ar": "خدمة تتيح إصدار شهادة ميلاد رسمية للمواطنين السعوديين عبر منصة أبشر.",
+    "description_en": "Service that allows issuing an official birth certificate for Saudi citizens via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الأحوال المدنية).",
+      "اختيار خدمة (إصدار شهادة ميلاد).",
+      "تحديد الشخص المطلوب إصدار الشهادة له.",
+      "اختيار اللغة (عربي أو إنجليزي أو كلاهما).",
+      "تأكيد الطلب وسداد الرسوم.",
+      "اختيار طريقة الاستلام (إلكتروني أو توصيل)."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Civil Affairs'.",
+      "Choose 'Issue Birth Certificate' service.",
+      "Select the person for whom the certificate is needed.",
+      "Choose language (Arabic, English, or both).",
+      "Confirm request and pay the fees.",
+      "Choose delivery method (electronic or physical delivery)."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون الشخص مسجلاً في سجل الأسرة.",
+        "حساب مفعل في منصة أبشر.",
+        "سداد رسوم إصدار الشهادة."
+      ],
+      "en": [
+        "The person must be registered in the family record.",
+        "Active Absher account.",
+        "Payment of certificate issuance fees."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "issue_family_record": {
+    "platform": "Absher",
+    "category": "Civil Affairs",
+    "title_ar": "إصدار سجل الأسرة",
+    "title_en": "Issue Family Record",
+    "description_ar": "خدمة تتيح للمواطن السعودي إصدار سجل أسرة جديد أو بدل فاقد/تالف عبر أبشر.",
+    "description_en": "Service that allows Saudi citizens to issue a new family record or replacement for lost/damaged one via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الأحوال المدنية).",
+      "اختيار خدمة (إصدار سجل أسرة).",
+      "تحديد نوع الطلب (جديد أو بدل فاقد/تالف).",
+      "مراجعة بيانات أفراد الأسرة.",
+      "تأكيد الطلب وسداد الرسوم.",
+      "اختيار طريقة الاستلام."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Civil Affairs'.",
+      "Choose 'Issue Family Record' service.",
+      "Select request type (new or replacement for lost/damaged).",
+      "Review family members' data.",
+      "Confirm request and pay the fees.",
+      "Choose delivery method."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون رب الأسرة سعودي الجنسية.",
+        "وجود عقد زواج مسجل في النظام (للإصدار الأول).",
+        "سداد الرسوم المقررة.",
+        "وجود بصمة وصورة محدثة."
+      ],
+      "en": [
+        "Head of family must be a Saudi citizen.",
+        "Marriage contract registered in the system (for first issuance).",
+        "Payment of applicable fees.",
+        "Updated fingerprint and photo."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "issue_national_id_card": {
+    "platform": "Absher",
+    "category": "Civil Affairs",
+    "title_ar": "إصدار بطاقة الأحوال الشخصية",
+    "title_en": "Issue National ID Card",
+    "description_ar": "خدمة تتيح للمواطن السعودي إصدار بطاقة الهوية الوطنية (الأحوال الشخصية) لأول مرة عبر منصة أبشر.",
+    "description_en": "Service that allows Saudi citizens to issue a National ID card (personal status card) for the first time via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الأحوال المدنية).",
+      "اختيار خدمة (إصدار بطاقة الأحوال / الهوية الوطنية).",
+      "التأكد من وجود بصمة وصورة محدثة في النظام.",
+      "مراجعة البيانات الشخصية والتأكد من صحتها.",
+      "تأكيد الطلب وسداد الرسوم.",
+      "اختيار طريقة الاستلام (توصيل أو فرع الأحوال المدنية)."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Civil Affairs'.",
+      "Choose 'Issue National ID Card' service.",
+      "Ensure fingerprint and photo are updated in the system.",
+      "Review personal data and verify accuracy.",
+      "Confirm request and pay the fees.",
+      "Choose delivery method (home delivery or civil affairs branch)."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون المستفيد سعودي الجنسية.",
+        "بلوغ السن النظامي (15 سنة هجرية).",
+        "وجود بصمة وصورة محدثة في النظام.",
+        "أن يكون مسجلاً في سجل الأسرة.",
+        "سداد الرسوم المقررة."
+      ],
+      "en": [
+        "Applicant must be a Saudi citizen.",
+        "Must have reached the legal age (15 Hijri years).",
+        "Updated fingerprint and photo in the system.",
+        "Must be registered in a family record.",
+        "Payment of applicable fees."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "update_personal_info": {
+    "platform": "Absher",
+    "category": "Civil Affairs",
+    "title_ar": "تحديث البيانات الشخصية",
+    "title_en": "Update Personal Information",
+    "description_ar": "خدمة تتيح للمواطن تحديث بياناته الشخصية مثل العنوان ورقم الجوال والحالة الاجتماعية.",
+    "description_en": "Service that allows citizens to update personal information such as address, phone number, and marital status.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الأحوال المدنية).",
+      "اختيار خدمة (تحديث البيانات الشخصية).",
+      "تعديل البيانات المطلوب تحديثها.",
+      "إرفاق المستندات الداعمة إن لزم الأمر.",
+      "تأكيد الطلب وانتظار الموافقة."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Civil Affairs'.",
+      "Choose 'Update Personal Information' service.",
+      "Modify the data that needs updating.",
+      "Attach supporting documents if required.",
+      "Confirm request and wait for approval."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في أبشر.",
+        "مستندات داعمة للتحديث (مثل عقد إيجار للعنوان).",
+        "بعض التحديثات قد تتطلب زيارة فرع الأحوال المدنية."
+      ],
+      "en": [
+        "Active Absher account.",
+        "Supporting documents for the update (e.g., rental contract for address).",
+        "Some updates may require visiting a civil affairs branch."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "issue_passport": {
+    "platform": "Absher",
+    "category": "Passports",
+    "title_ar": "إصدار جواز سفر",
+    "title_en": "Issue Passport",
+    "description_ar": "خدمة تتيح للمواطن السعودي إصدار جواز سفر جديد لأول مرة أو بدل فاقد/تالف عبر منصة أبشر.",
+    "description_en": "Service that allows Saudi citizens to issue a new passport for the first time or as a replacement for lost/damaged one via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الجوازات).",
+      "اختيار خدمة (إصدار جواز سفر).",
+      "تحديد نوع الإصدار (جديد أو بدل فاقد/تالف).",
+      "مراجعة البيانات الشخصية والتأكد من صحتها.",
+      "اختيار مدة صلاحية الجواز (5 أو 10 سنوات).",
+      "تأكيد الطلب وسداد الرسوم.",
+      "اختيار طريقة الاستلام."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Passports'.",
+      "Choose 'Issue Passport' service.",
+      "Select issuance type (new or replacement for lost/damaged).",
+      "Review personal data and verify accuracy.",
+      "Choose passport validity period (5 or 10 years).",
+      "Confirm request and pay the fees.",
+      "Choose delivery method."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون المستفيد سعودي الجنسية.",
+        "هوية وطنية سارية المفعول.",
+        "وجود بصمة وصورة محدثة في النظام.",
+        "سداد الرسوم المقررة.",
+        "عدم وجود إيقاف خدمات."
+      ],
+      "en": [
+        "Applicant must be a Saudi citizen.",
+        "Valid National ID.",
+        "Updated fingerprint and photo in the system.",
+        "Payment of applicable fees.",
+        "No service suspension."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "renew_passport": {
+    "platform": "Absher",
+    "category": "Passports",
+    "title_ar": "تجديد جواز السفر",
+    "title_en": "Renew Passport",
+    "description_ar": "خدمة تتيح للمواطن السعودي تجديد جواز السفر المنتهي أو الذي أوشك على الانتهاء عبر منصة أبشر.",
+    "description_en": "Service that allows Saudi citizens to renew an expired or expiring passport via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الجوازات).",
+      "اختيار خدمة (تجديد جواز السفر).",
+      "مراجعة بيانات الجواز الحالي.",
+      "اختيار مدة صلاحية الجواز الجديد (5 أو 10 سنوات).",
+      "تأكيد الطلب وسداد الرسوم.",
+      "اختيار طريقة الاستلام (توصيل أو فرع الجوازات)."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Passports'.",
+      "Choose 'Renew Passport' service.",
+      "Review current passport data.",
+      "Choose new passport validity period (5 or 10 years).",
+      "Confirm request and pay the fees.",
+      "Choose delivery method (home delivery or passport office)."
+    ],
+    "requirements": {
+      "ar": [
+        "جواز سفر منتهي أو قارب على الانتهاء (خلال 6 أشهر).",
+        "هوية وطنية سارية المفعول.",
+        "وجود بصمة وصورة محدثة في النظام.",
+        "سداد الرسوم المقررة.",
+        "تسليم الجواز القديم عند الاستلام."
+      ],
+      "en": [
+        "Passport expired or expiring within 6 months.",
+        "Valid National ID.",
+        "Updated fingerprint and photo in the system.",
+        "Payment of applicable fees.",
+        "Return old passport upon collection."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "report_lost_passport": {
+    "platform": "Absher",
+    "category": "Passports",
+    "title_ar": "الإبلاغ عن فقدان جواز السفر",
+    "title_en": "Report Lost Passport",
+    "description_ar": "خدمة تتيح للمواطن الإبلاغ عن فقدان أو سرقة جواز السفر عبر منصة أبشر.",
+    "description_en": "Service that allows citizens to report a lost or stolen passport via Absher.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الجوازات).",
+      "اختيار خدمة (الإبلاغ عن فقدان جواز).",
+      "إدخال تفاصيل الفقدان (التاريخ، المكان، الظروف).",
+      "تأكيد البلاغ.",
+      "الحصول على رقم البلاغ للمتابعة.",
+      "التقدم بطلب إصدار جواز بدل فاقد."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Passports'.",
+      "Choose 'Report Lost Passport' service.",
+      "Enter loss details (date, location, circumstances).",
+      "Confirm the report.",
+      "Obtain report number for follow-up.",
+      "Apply for replacement passport."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مفعل في أبشر.",
+        "معرفة تفاصيل الجواز المفقود.",
+        "تقديم البلاغ في أقرب وقت ممكن."
+      ],
+      "en": [
+        "Active Absher account.",
+        "Knowledge of lost passport details.",
+        "Report as soon as possible."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "passport_delivery_tracking": {
+    "platform": "Absher",
+    "category": "Passports",
+    "title_ar": "تتبع توصيل الجواز",
+    "title_en": "Passport Delivery Tracking",
+    "description_ar": "خدمة تتيح للمواطن تتبع حالة توصيل جواز السفر بعد إصداره أو تجديده.",
+    "description_en": "Service that allows citizens to track passport delivery status after issuance or renewal.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الجوازات).",
+      "اختيار (تتبع الطلبات) أو (حالة الطلب).",
+      "عرض تفاصيل الشحنة ورقم التتبع.",
+      "متابعة حالة التوصيل حتى الاستلام."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Passports'.",
+      "Choose 'Track Orders' or 'Order Status'.",
+      "View shipment details and tracking number.",
+      "Follow delivery status until receipt."
+    ],
+    "requirements": {
+      "ar": [
+        "وجود طلب جواز سابق تم اختيار التوصيل له.",
+        "حساب مفعل في أبشر."
+      ],
+      "en": [
+        "Existing passport request with delivery option selected.",
+        "Active Absher account."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "add_dependent_to_passport": {
+    "platform": "Absher",
+    "category": "Passports",
+    "title_ar": "إضافة تابع إلى الجواز",
+    "title_en": "Add Dependent to Passport",
+    "description_ar": "خدمة تتيح إضافة الأبناء (دون 15 سنة) إلى جواز سفر أحد الوالدين.",
+    "description_en": "Service that allows adding children (under 15 years) to a parent's passport.",
+    "steps_ar": [
+      "تسجيل الدخول إلى منصة أبشر أفراد.",
+      "اختيار (خدماتي) ثم (الجوازات).",
+      "اختيار خدمة (إضافة تابع).",
+      "تحديد التابع المراد إضافته من قائمة الأبناء.",
+      "التأكد من بيانات التابع.",
+      "تأكيد الطلب وسداد الرسوم.",
+      "اختيار طريقة الاستلام."
+    ],
+    "steps_en": [
+      "Log in to Absher Individuals platform.",
+      "Select 'My Services' then 'Passports'.",
+      "Choose 'Add Dependent' service.",
+      "Select the dependent to add from children list.",
+      "Verify dependent's data.",
+      "Confirm request and pay the fees.",
+      "Choose delivery method."
+    ],
+    "requirements": {
+      "ar": [
+        "أن يكون التابع دون 15 سنة.",
+        "أن يكون التابع مسجلاً في سجل الأسرة.",
+        "جواز سفر ساري للوالد/الوالدة.",
+        "سداد الرسوم المقررة."
+      ],
+      "en": [
+        "Dependent must be under 15 years old.",
+        "Dependent must be registered in family record.",
+        "Valid passport for the parent.",
+        "Payment of applicable fees."
+      ]
+    },
+    "official_link": "https://www.absher.sa"
+  },
+
+  "nwc_check_bill": {
+    "platform": "NWC",
+    "category": "Water Services",
+    "title_ar": "الاستعلام عن فاتورة المياه",
+    "title_en": "Check Water Bill",
+    "description_ar": "خدمة تتيح للمشترك الاستعلام عن فاتورة المياه الحالية والسابقة عبر موقع أو تطبيق شركة المياه الوطنية.",
+    "description_en": "Service that allows subscribers to check current and previous water bills via NWC website or app.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق شركة المياه الوطنية.",
+      "تسجيل الدخول بحساب المشترك أو رقم الحساب.",
+      "اختيار (الفواتير) أو (استعلام عن فاتورة).",
+      "عرض تفاصيل الفاتورة الحالية والمبلغ المستحق.",
+      "إمكانية عرض سجل الفواتير السابقة."
+    ],
+    "steps_en": [
+      "Access NWC website or mobile app.",
+      "Log in with subscriber account or account number.",
+      "Select 'Bills' or 'Check Bill'.",
+      "View current bill details and amount due.",
+      "Option to view previous bill history."
+    ],
+    "requirements": {
+      "ar": [
+        "رقم حساب المشترك أو رقم العداد.",
+        "حساب مسجل في منصة المياه الوطنية (للخدمات الكاملة)."
+      ],
+      "en": [
+        "Subscriber account number or meter number.",
+        "Registered account on NWC platform (for full services)."
+      ]
+    },
+    "official_link": "https://www.nwc.com.sa/AR/ServiceCatalog/Pages/service4.aspx"
+  },
+
+  "nwc_pay_bill": {
+    "platform": "NWC",
+    "category": "Water Services",
+    "title_ar": "سداد فاتورة المياه",
+    "title_en": "Pay Water Bill",
+    "description_ar": "خدمة تتيح للمشترك سداد فاتورة المياه إلكترونيًا عبر موقع أو تطبيق شركة المياه الوطنية.",
+    "description_en": "Service that allows subscribers to pay water bills electronically via NWC website or app.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق شركة المياه الوطنية.",
+      "تسجيل الدخول بحساب المشترك.",
+      "اختيار (سداد الفاتورة) أو (الدفع).",
+      "مراجعة المبلغ المستحق.",
+      "اختيار طريقة الدفع (بطاقة ائتمان، مدى، سداد).",
+      "إتمام عملية الدفع واستلام إيصال السداد."
+    ],
+    "steps_en": [
+      "Access NWC website or mobile app.",
+      "Log in with subscriber account.",
+      "Select 'Pay Bill' or 'Payment'.",
+      "Review the amount due.",
+      "Choose payment method (credit card, Mada, SADAD).",
+      "Complete payment and receive receipt."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مشترك مسجل في المنصة.",
+        "وجود فاتورة مستحقة السداد.",
+        "وسيلة دفع صالحة."
+      ],
+      "en": [
+        "Registered subscriber account.",
+        "Outstanding bill to pay.",
+        "Valid payment method."
+      ]
+    },
+    "official_link": "https://www.nwc.com.sa/AR/ServiceCatalog/Pages/service4.aspx"
+  },
+
+  "nwc_new_meter": {
+    "platform": "NWC",
+    "category": "Water Services",
+    "title_ar": "طلب عداد مياه جديد",
+    "title_en": "Request New Water Meter",
+    "description_ar": "خدمة تتيح التقدم بطلب تركيب عداد مياه جديد للعقارات الجديدة أو التي لا يوجد بها عداد.",
+    "description_en": "Service that allows requesting installation of a new water meter for new properties or properties without meters.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق شركة المياه الوطنية.",
+      "تسجيل الدخول أو إنشاء حساب جديد.",
+      "اختيار (الخدمات) ثم (طلب عداد جديد).",
+      "إدخال بيانات العقار وموقعه.",
+      "إرفاق المستندات المطلوبة (صك الملكية، رخصة البناء).",
+      "تأكيد الطلب وسداد الرسوم.",
+      "متابعة حالة الطلب حتى التركيب."
+    ],
+    "steps_en": [
+      "Access NWC website or mobile app.",
+      "Log in or create new account.",
+      "Select 'Services' then 'Request New Meter'.",
+      "Enter property details and location.",
+      "Attach required documents (property deed, building permit).",
+      "Confirm request and pay fees.",
+      "Track request status until installation."
+    ],
+    "requirements": {
+      "ar": [
+        "صك ملكية للعقار أو عقد إيجار.",
+        "رخصة بناء سارية (للعقارات الجديدة).",
+        "شهادة إتمام البناء.",
+        "سداد رسوم التركيب والتأمين."
+      ],
+      "en": [
+        "Property deed or rental contract.",
+        "Valid building permit (for new properties).",
+        "Building completion certificate.",
+        "Payment of installation and deposit fees."
+      ]
+    },
+    "official_link": "https://www.nwc.com.sa/AR/ServiceCatalog/Pages/service22.aspx"
+  },
+
+  "nwc_transfer_ownership": {
+    "platform": "NWC",
+    "category": "Water Services",
+    "title_ar": "نقل ملكية عداد المياه",
+    "title_en": "Transfer Water Meter Ownership",
+    "description_ar": "خدمة تتيح نقل ملكية حساب عداد المياه من مالك إلى آخر عند بيع أو تأجير العقار.",
+    "description_en": "Service that allows transferring water meter account ownership from one owner to another when selling or renting property.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق شركة المياه الوطنية.",
+      "تسجيل الدخول بحساب المالك الحالي أو الجديد.",
+      "اختيار (الخدمات) ثم (نقل ملكية).",
+      "إدخال رقم الحساب/العداد المراد نقله.",
+      "إرفاق مستندات إثبات الملكية الجديدة.",
+      "سداد أي مبالغ مستحقة على الحساب.",
+      "تأكيد الطلب وانتظار الموافقة."
+    ],
+    "steps_en": [
+      "Access NWC website or mobile app.",
+      "Log in with current or new owner account.",
+      "Select 'Services' then 'Transfer Ownership'.",
+      "Enter account/meter number to transfer.",
+      "Attach new ownership proof documents.",
+      "Pay any outstanding amounts on the account.",
+      "Confirm request and wait for approval."
+    ],
+    "requirements": {
+      "ar": [
+        "صك ملكية جديد أو عقد بيع موثق.",
+        "سداد جميع المبالغ المستحقة على الحساب.",
+        "موافقة المالك السابق (في بعض الحالات).",
+        "هوية المالك الجديد."
+      ],
+      "en": [
+        "New property deed or documented sale contract.",
+        "Payment of all outstanding amounts.",
+        "Previous owner consent (in some cases).",
+        "New owner's ID."
+      ]
+    },
+    "official_link": "https://www.nwc.com.sa/AR/ServiceCatalog/Pages/service14.aspx"
+  },
+
+  "nwc_report_leak": {
+    "platform": "NWC",
+    "category": "Water Services",
+    "title_ar": "الإبلاغ عن تسرب مياه",
+    "title_en": "Report Water Leak",
+    "description_ar": "خدمة تتيح للمشتركين والمواطنين الإبلاغ عن تسربات المياه في الشوارع أو داخل العقارات.",
+    "description_en": "Service that allows subscribers and citizens to report water leaks on streets or inside properties.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق شركة المياه الوطنية.",
+      "اختيار (البلاغات) أو (الإبلاغ عن تسرب).",
+      "تحديد موقع التسرب على الخريطة أو إدخال العنوان.",
+      "وصف نوع التسرب وحجمه.",
+      "إرفاق صور للتسرب إن أمكن.",
+      "إرسال البلاغ والحصول على رقم المتابعة."
+    ],
+    "steps_en": [
+      "Access NWC website or mobile app.",
+      "Select 'Reports' or 'Report Leak'.",
+      "Mark leak location on map or enter address.",
+      "Describe leak type and size.",
+      "Attach photos of the leak if possible.",
+      "Submit report and get tracking number."
+    ],
+    "requirements": {
+      "ar": [
+        "معرفة موقع التسرب بدقة.",
+        "يفضل إرفاق صور توضيحية.",
+        "رقم جوال للتواصل."
+      ],
+      "en": [
+        "Accurate leak location.",
+        "Photos recommended.",
+        "Contact phone number."
+      ]
+    },
+    "official_link": "https://www.nwc.com.sa/AR/ServiceCatalog/Pages/service27.aspx"
+  },
+
+  "nwc_service_reconnection": {
+    "platform": "NWC",
+    "category": "Water Services",
+    "title_ar": "طلب إعادة توصيل خدمة المياه",
+    "title_en": "Request Water Service Reconnection",
+    "description_ar": "خدمة تتيح للمشترك طلب إعادة توصيل خدمة المياه بعد الفصل بسبب عدم السداد أو طلب سابق.",
+    "description_en": "Service that allows subscribers to request water service reconnection after disconnection due to non-payment or previous request.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق شركة المياه الوطنية.",
+      "تسجيل الدخول بحساب المشترك.",
+      "اختيار (الخدمات) ثم (إعادة التوصيل).",
+      "سداد جميع المبالغ المستحقة والغرامات إن وجدت.",
+      "سداد رسوم إعادة التوصيل.",
+      "تأكيد الطلب وانتظار زيارة الفني."
+    ],
+    "steps_en": [
+      "Access NWC website or mobile app.",
+      "Log in with subscriber account.",
+      "Select 'Services' then 'Reconnection'.",
+      "Pay all outstanding amounts and fines if any.",
+      "Pay reconnection fees.",
+      "Confirm request and wait for technician visit."
+    ],
+    "requirements": {
+      "ar": [
+        "سداد كامل المبالغ المستحقة.",
+        "سداد رسوم إعادة التوصيل.",
+        "وجود شخص في الموقع لاستقبال الفني."
+      ],
+      "en": [
+        "Full payment of outstanding amounts.",
+        "Payment of reconnection fees.",
+        "Someone present at location for technician."
+      ]
+    },
+    "official_link": "https://www.nwc.com.sa/AR/ServiceCatalog/Pages/service7.aspx"
+  },
+
+  "se_check_bill": {
+    "platform": "Saudi Electricity",
+    "category": "Electricity Services",
+    "title_ar": "الاستعلام عن فاتورة الكهرباء",
+    "title_en": "Check Electricity Bill",
+    "description_ar": "خدمة تتيح للمشترك الاستعلام عن فاتورة الكهرباء الحالية والسابقة عبر موقع أو تطبيق الشركة السعودية للكهرباء.",
+    "description_en": "Service that allows subscribers to check current and previous electricity bills via Saudi Electricity website or app.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق الشركة السعودية للكهرباء (ALKAHRABA).",
+      "تسجيل الدخول بحساب المشترك أو رقم الحساب.",
+      "اختيار (الفواتير) أو (استعلام عن فاتورة).",
+      "عرض تفاصيل الفاتورة الحالية والمبلغ المستحق.",
+      "إمكانية عرض سجل الفواتير السابقة واستهلاك الكهرباء."
+    ],
+    "steps_en": [
+      "Access Saudi Electricity website or ALKAHRABA app.",
+      "Log in with subscriber account or account number.",
+      "Select 'Bills' or 'Check Bill'.",
+      "View current bill details and amount due.",
+      "Option to view previous bills and electricity consumption."
+    ],
+    "requirements": {
+      "ar": [
+        "رقم حساب المشترك أو رقم العداد.",
+        "حساب مسجل في منصة الكهرباء (للخدمات الكاملة)."
+      ],
+      "en": [
+        "Subscriber account number or meter number.",
+        "Registered account on SE platform (for full services)."
+      ]
+    },
+    "official_link": "https://www.se.com.sa/ar-SA/GuestViewBill"
+  },
+
+  "se_pay_bill": {
+    "platform": "Saudi Electricity",
+    "category": "Electricity Services",
+    "title_ar": "سداد فاتورة الكهرباء",
+    "title_en": "Pay Electricity Bill",
+    "description_ar": "خدمة تتيح للمشترك سداد فاتورة الكهرباء إلكترونيًا عبر موقع أو تطبيق الشركة السعودية للكهرباء.",
+    "description_en": "Service that allows subscribers to pay electricity bills electronically via Saudi Electricity website or app.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق الشركة السعودية للكهرباء.",
+      "تسجيل الدخول بحساب المشترك.",
+      "اختيار (سداد الفاتورة) أو (الدفع).",
+      "مراجعة المبلغ المستحق.",
+      "اختيار طريقة الدفع (بطاقة ائتمان، مدى، سداد، Apple Pay).",
+      "إتمام عملية الدفع واستلام إيصال السداد."
+    ],
+    "steps_en": [
+      "Access Saudi Electricity website or app.",
+      "Log in with subscriber account.",
+      "Select 'Pay Bill' or 'Payment'.",
+      "Review the amount due.",
+      "Choose payment method (credit card, Mada, SADAD, Apple Pay).",
+      "Complete payment and receive receipt."
+    ],
+    "requirements": {
+      "ar": [
+        "حساب مشترك مسجل في المنصة.",
+        "وجود فاتورة مستحقة السداد.",
+        "وسيلة دفع صالحة."
+      ],
+      "en": [
+        "Registered subscriber account.",
+        "Outstanding bill to pay.",
+        "Valid payment method."
+      ]
+    },
+    "official_link": "https://www.se.com.sa/ar-SA/GuestViewBill"
+  },
+
+  "se_new_meter": {
+    "platform": "Saudi Electricity",
+    "category": "Electricity Services",
+    "title_ar": "طلب عداد كهرباء جديد",
+    "title_en": "Request New Electricity Meter",
+    "description_ar": "خدمة تتيح التقدم بطلب إيصال خدمة الكهرباء وتركيب عداد جديد للعقارات الجديدة.",
+    "description_en": "Service that allows requesting electricity connection and new meter installation for new properties.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق الشركة السعودية للكهرباء.",
+      "تسجيل الدخول أو إنشاء حساب جديد.",
+      "اختيار (الخدمات) ثم (طلب إيصال كهرباء جديد).",
+      "إدخال بيانات العقار وموقعه.",
+      "إرفاق المستندات المطلوبة (صك الملكية، رخصة البناء، مخطط الموقع).",
+      "تأكيد الطلب وسداد الرسوم.",
+      "متابعة حالة الطلب حتى التركيب."
+    ],
+    "steps_en": [
+      "Access Saudi Electricity website or app.",
+      "Log in or create new account.",
+      "Select 'Services' then 'Request New Electricity Connection'.",
+      "Enter property details and location.",
+      "Attach required documents (property deed, building permit, site plan).",
+      "Confirm request and pay fees.",
+      "Track request status until installation."
+    ],
+    "requirements": {
+      "ar": [
+        "صك ملكية للعقار.",
+        "رخصة بناء سارية.",
+        "شهادة إتمام البناء أو صلاحية للسكن.",
+        "مخطط موقع العقار.",
+        "سداد رسوم الإيصال والتأمين."
+      ],
+      "en": [
+        "Property deed.",
+        "Valid building permit.",
+        "Building completion certificate or occupancy permit.",
+        "Property site plan.",
+        "Payment of connection and deposit fees."
+      ]
+    },
+    "official_link": "https://www.se.com.sa/ar-SA/Ourservices/ColumnA/Electrical-Service-Connection-Requests/PermanentServiceConnection"
+  },
+
+  "se_transfer_ownership": {
+    "platform": "Saudi Electricity",
+    "category": "Electricity Services",
+    "title_ar": "نقل ملكية عداد الكهرباء",
+    "title_en": "Transfer Electricity Meter Ownership",
+    "description_ar": "خدمة تتيح نقل ملكية حساب الكهرباء من مالك إلى آخر عند بيع أو تأجير العقار.",
+    "description_en": "Service that allows transferring electricity account ownership from one owner to another when selling or renting property.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق الشركة السعودية للكهرباء.",
+      "تسجيل الدخول بحساب المالك الجديد.",
+      "اختيار (الخدمات) ثم (نقل ملكية).",
+      "إدخال رقم الحساب/العداد المراد نقله.",
+      "إرفاق مستندات إثبات الملكية الجديدة.",
+      "سداد أي مبالغ مستحقة على الحساب.",
+      "تأكيد الطلب وانتظار الموافقة."
+    ],
+    "steps_en": [
+      "Access Saudi Electricity website or app.",
+      "Log in with new owner account.",
+      "Select 'Services' then 'Transfer Ownership'.",
+      "Enter account/meter number to transfer.",
+      "Attach new ownership proof documents.",
+      "Pay any outstanding amounts on the account.",
+      "Confirm request and wait for approval."
+    ],
+    "requirements": {
+      "ar": [
+        "صك ملكية جديد أو عقد بيع موثق.",
+        "سداد جميع المبالغ المستحقة على الحساب.",
+        "هوية المالك الجديد.",
+        "قراءة العداد الحالية."
+      ],
+      "en": [
+        "New property deed or documented sale contract.",
+        "Payment of all outstanding amounts.",
+        "New owner's ID.",
+        "Current meter reading."
+      ]
+    },
+    "official_link": "https://www.se.com.sa"
+  },
+
+  "se_report_outage": {
+    "platform": "Saudi Electricity",
+    "category": "Electricity Services",
+    "title_ar": "الإبلاغ عن انقطاع الكهرباء",
+    "title_en": "Report Power Outage",
+    "description_ar": "خدمة تتيح للمشتركين الإبلاغ عن انقطاع التيار الكهربائي أو أعطال الكهرباء.",
+    "description_en": "Service that allows subscribers to report power outages or electrical faults.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق الشركة السعودية للكهرباء.",
+      "اختيار (البلاغات) أو (الإبلاغ عن انقطاع).",
+      "تحديد موقع الانقطاع أو إدخال رقم الحساب.",
+      "وصف نوع المشكلة (انقطاع كامل، تذبذب، عطل).",
+      "إرسال البلاغ والحصول على رقم المتابعة.",
+      "متابعة حالة البلاغ حتى إصلاح العطل."
+    ],
+    "steps_en": [
+      "Access Saudi Electricity website or app.",
+      "Select 'Reports' or 'Report Outage'.",
+      "Mark outage location or enter account number.",
+      "Describe the problem type (complete outage, fluctuation, fault).",
+      "Submit report and get tracking number.",
+      "Track report status until issue is resolved."
+    ],
+    "requirements": {
+      "ar": [
+        "رقم حساب المشترك أو موقع الانقطاع.",
+        "وصف دقيق للمشكلة.",
+        "رقم جوال للتواصل."
+      ],
+      "en": [
+        "Subscriber account number or outage location.",
+        "Accurate problem description.",
+        "Contact phone number."
+      ]
+    },
+    "official_link": "https://www.se.com.sa/ar-SA/GuestReportOutage"
+  },
+
+  "se_service_reconnection": {
+    "platform": "Saudi Electricity",
+    "category": "Electricity Services",
+    "title_ar": "طلب إعادة توصيل الكهرباء",
+    "title_en": "Request Electricity Reconnection",
+    "description_ar": "خدمة تتيح للمشترك طلب إعادة توصيل خدمة الكهرباء بعد الفصل بسبب عدم السداد.",
+    "description_en": "Service that allows subscribers to request electricity reconnection after disconnection due to non-payment.",
+    "steps_ar": [
+      "الدخول إلى موقع أو تطبيق الشركة السعودية للكهرباء.",
+      "تسجيل الدخول بحساب المشترك.",
+      "اختيار (الخدمات) ثم (إعادة التوصيل).",
+      "سداد جميع المبالغ المستحقة والغرامات.",
+      "سداد رسوم إعادة التوصيل.",
+      "تأكيد الطلب.",
+      "انتظار إعادة التوصيل (عادة خلال 24 ساعة)."
+    ],
+    "steps_en": [
+      "Access Saudi Electricity website or app.",
+      "Log in with subscriber account.",
+      "Select 'Services' then 'Reconnection'.",
+      "Pay all outstanding amounts and fines.",
+      "Pay reconnection fees.",
+      "Confirm request.",
+      "Wait for reconnection (usually within 24 hours)."
+    ],
+    "requirements": {
+      "ar": [
+        "سداد كامل المبالغ المستحقة.",
+        "سداد رسوم إعادة التوصيل.",
+        "التأكد من سلامة التمديدات الكهربائية."
+      ],
+      "en": [
+        "Full payment of outstanding amounts.",
+        "Payment of reconnection fees.",
+        "Ensure electrical installations are safe."
+      ]
+    },
+    "official_link": "https://www.se.com.sa"
+  }
+}
